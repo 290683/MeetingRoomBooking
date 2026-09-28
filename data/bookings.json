@@ -1,0 +1,66 @@
+[
+  {
+    "id": "B002",
+    "roomId": 1,
+    "employeeName": "Alice Johnson",
+    "date": "2026-10-01",
+    "startTime": "10:00",
+    "endTime": "11:00"
+  },
+  {
+    "id": "B003",
+    "roomId": 2,
+    "employeeName": "Bob Wilson",
+    "date": "2026-10-02",
+    "startTime": "14:00",
+    "endTime": "15:30"
+  },
+  {
+    "id": "B004",
+    "roomId": 3,
+    "employeeName": "Carol Davis",
+    "date": "2026-10-01",
+    "startTime": "13:00",
+    "endTime": "14:00"
+  },
+  {
+    "id": "B005",
+    "roomId": 1,
+    "employeeName": "Nakul Dev",
+    "date": "2026-10-01",
+    "startTime": "09:00",
+    "endTime": "10:00"
+  },
+  {
+    "id": "B006",
+    "roomId": 2,
+    "employeeName": "Nakul Dev",
+    "date": "2026-10-01",
+    "startTime": "09:00",
+    "endTime": "10:00"
+  },
+  {
+    "id": "B008",
+    "roomId": 4,
+    "employeeName": "Nakul Dev",
+    "date": "2026-01-30",
+    "startTime": "11:00",
+    "endTime": "12:00"
+  },
+  {
+    "id": "B009",
+    "roomId": 1,
+    "employeeName": "Nakul Dev",
+    "date": "2026-10-02",
+    "startTime": "09:00",
+    "endTime": "10:00"
+  },
+  {
+    "id": "B010",
+    "roomId": 1,
+    "employeeName": "Nakul Dev",
+    "date": "2026-10-01",
+    "startTime": "11:00",
+    "endTime": "12:00"
+  }
+]
